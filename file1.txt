@@ -2,4 +2,8 @@ this is file 1
 
 this is sentence 2
 
+
 this is new feature on master
+
+this is new feature on branch1
+
